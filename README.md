@@ -47,3 +47,6 @@
 <li>Axios</li>
 <li>Python (para consumo de API do Workspace e Envio de email, backend em python não foi commitado para o github)</li>
 </ul>
+<br>
+<br>
+Arquivos de configuração de banco e .env com gitignore
