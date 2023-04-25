@@ -1,6 +1,8 @@
 <h1>Gerenciador de Férias</h1>
 
-<p>Este é um projeto desenvolvido para permitir que gestores possam controlar com eficiência as férias dos colaboradores de cada time, tendo em vista a administração das entregas de cada equipe.</p>
+<p>Este é um projeto desenvolvido durante o estágio na empresa LOJAS QUERO-QUERO S/A para sanar uma problemática de gerenciamento de férias de funcionários em times.
+  <br><br>Esse projeto me permitiu passar para a próxima etapa do programa de estágio, todo e qualquer código aqui foi postado com permissão do gestor.
+</p>
 
 <h2>Resumo do Projeto</h2>
 
@@ -41,6 +43,7 @@
 <li>MySQL</li>
 <li>Vue.js</li>
 <li>Toastification</li>
+<li>ChartJs</li>
 <li>Axios</li>
-<li>Python (para consumo de API do Workspace)</li>
+<li>Python (para consumo de API do Workspace e Envio de email, backend em python não foi commitado para o github)</li>
 </ul>
