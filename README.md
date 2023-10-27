@@ -1,3 +1,6 @@
+![image](https://github.com/IgorSouza4489/GerenciadorFeriasEstagio/assets/63150786/05c46939-6806-4b86-8539-ad262329bff9)
+
+
 <h1>Gerenciador de Férias</h1>
 
 <p>Este é um projeto desenvolvido durante o estágio na empresa LOJAS QUERO-QUERO S/A para sanar uma problemática de gerenciamento de férias de funcionários em times.
@@ -51,7 +54,6 @@
 <br>
 
 
-![image](https://github.com/IgorSouza4489/GerenciadorFeriasEstagio/assets/63150786/05c46939-6806-4b86-8539-ad262329bff9)
 
 
 Arquivos de configuração de banco e .env com gitignore<br>
